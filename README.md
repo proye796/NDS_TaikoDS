@@ -15,13 +15,13 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---:|---|
-| TaikoDS-KO-v1.0.nds | 67,108,864 | ef5532d28a80f4dd6e5f32c544812daeaf5a655e0e12cdcb141155fe90706344 |
+| TaikoDS-KO-v1.0.1nds | 67,108,864 | 128904d06863a4bd6fa433f1f68085132837f3a333a379fa33aba27eb48926b0 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---:|---|
-| TaikoDS-KO-v1.0.zip | 2,045,138 | bc6dd41942cb0f9a038f9c6c5a2cafa9d09c5e7fe4142b2e54cc4fcfebb0dad2 |
-| TaikoDS-KO-v1.0.bps | 2,741,459 | 9b450fcf88a7472cdd8cce9fe83249633394e2791d901f0f98dcea598b8e22e3 |
+| TaikoDS-KO-v1.0.1.zip | 2,047,038 | `5d3734b61007581e73aedb3c1f4a2e032ec3e149eb8941805175d803dea3d4e4` |
+| TaikoDS-KO-v1.0.1.bps | 2,744,002 | `241ce5e2d9abd2b03232f3d184ecd25856ec1a734be76d45911ef527dee2bf4b` |
 
 ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 갈무리 글꼴 라이선스(GALMURI_OFL.txt)가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
