@@ -1,6 +1,6 @@
-# 태고의 달인 DS 터치로 쿵딱쿵! 한국어 패치 v1.0
+# 태고의 달인 DS 터치로 쿵딱쿵! 한국어 패치 v1.0.1
 
-배포일: 2026-11-09  
+배포일: 2026-11-10
 대상: Taiko no Tatsujin DS - Touch de Dokodon! 일본판 Rev 1 — YKTJ, revision 1
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
